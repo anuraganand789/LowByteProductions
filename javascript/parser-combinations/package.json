@@ -1,0 +1,19 @@
+{
+  "name": "parser-combinations",
+  "version": "0.0.1",
+  "description": "Learning from Low Byte Prductions Videos",
+  "main": "parser.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "parser",
+    "low-byte-productions",
+    "javascript"
+  ],
+  "author": "anurag anand",
+  "license": "ISC",
+  "dependencies": {
+    "arcsecond": "^5.0.0"
+  }
+}
